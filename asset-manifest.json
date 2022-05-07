@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/05-kodec-router-task/static/css/main.48d4d786.css",
-    "main.js": "/05-kodec-router-task/static/js/main.ed67b296.js",
+    "main.js": "/05-kodec-router-task/static/js/main.3a036e5e.js",
     "static/js/787.42202f9a.chunk.js": "/05-kodec-router-task/static/js/787.42202f9a.chunk.js",
     "static/media/logo.svg": "/05-kodec-router-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/05-kodec-router-task/index.html",
     "main.48d4d786.css.map": "/05-kodec-router-task/static/css/main.48d4d786.css.map",
-    "main.ed67b296.js.map": "/05-kodec-router-task/static/js/main.ed67b296.js.map",
+    "main.3a036e5e.js.map": "/05-kodec-router-task/static/js/main.3a036e5e.js.map",
     "787.42202f9a.chunk.js.map": "/05-kodec-router-task/static/js/787.42202f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48d4d786.css",
-    "static/js/main.ed67b296.js"
+    "static/js/main.3a036e5e.js"
   ]
 }
