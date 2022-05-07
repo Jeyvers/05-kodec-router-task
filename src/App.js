@@ -24,6 +24,7 @@ function App() {
           </nav>
         </div>
       </div>
+      <Home />
       <Routes>
         <Route path='/' element={<Home {...easiData} />} />
         <Route path='/about' element={<About {...easiData} />} />
